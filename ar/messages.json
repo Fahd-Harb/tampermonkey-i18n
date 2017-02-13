@@ -1,60 +1,60 @@
-{
+﻿{
   "1": {
-    "message": "1"
+    "message": "١"
   },
   "2": {
-    "message": "2"
+    "message": "٢"
   },
   "3": {
-    "message": "3"
+    "message": "٣"
   },
   "4": {
-    "message": "4"
+    "message": "٤"
   },
   "5": {
-    "message": "5"
+    "message": "٥"
   },
   "6": {
-    "message": "6"
+    "message": "٦"
   },
   "7": {
-    "message": "7"
+    "message": "٧"
   },
   "8": {
-    "message": "8"
+    "message": "٨"
   },
   "9": {
-    "message": "9"
+    "message": "٩"
   },
   "10": {
-    "message": "10"
+    "message": "١٠"
   },
   "11": {
-    "message": "11"
+    "message": "١١"
   },
   "fatal_error": {
-    "message": "fatal error"
+    "message": "خطأ قاتل"
   },
   "Please_consider_a_contribution": {
-    "message": "Please send a donation"
+    "message": "من فضلك تبرع لنا"
   },
   "I_contributed_already": {
-    "message": "I donated already"
+    "message": "لقد تبرعت بالفعل"
   },
   "Remind_me_later": {
-    "message": "Remind me later"
+    "message": "ذكرني لاحقاً"
   },
   "I_dont_want_to_contribute": {
-    "message": "I don't want to donate"
+    "message": "لا أريد التبرع"
   },
   "Thank_you_very_much_": {
-    "message": "Thank you very much!"
+    "message": "!شكراً جزيلاً"
   },
   "Invalid_UserScript__Sry_": {
-    "message": "Invalid UserScript. Sry!"
+    "message": "عفواً، سيناريو المستخدم غير صحيح"
   },
   "Invalid_UserScript_name__Sry_": {
-    "message": "Invalid UserScript name. Sry!"
+    "message": "عفواً، اسم سيناريو المستخدم غير صحيح"
   },
   "Script_name_0name0": {
     "message": "Script name: $name$",
